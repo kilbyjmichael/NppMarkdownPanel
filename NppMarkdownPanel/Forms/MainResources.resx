@@ -123,7 +123,7 @@
   <data name="AboutDialogText" xml:space="preserve">
     <value>NppMarkdownPanel for Notepad++
 
-Version 0.6.3.1
+Version 0.6.3.1.01
 
 Created by Mohzy 2019
 Github: https://github.com/mohzy83/NppMarkdownPanel
@@ -133,6 +133,10 @@ Github: https://github.com/UrsineRaven/NppMarkdownPanel
 
 Updated by VinsWorldcom 2020
 Github: https://github.com/VinsWorldcom/NppMarkdownPanel
+
+Updated by kilbyjmichael 2022
+Github: https://github.com/kilbyjmichael/NppMarkdownPanel
+Moved markdig to use nuget, package as one dll
 
 Using Markdig by xoofx - https://github.com/lunet-io/markdig
 
