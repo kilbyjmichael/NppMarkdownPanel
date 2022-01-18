@@ -7,7 +7,11 @@ Plugin to preview Markdown files in Notepad++
 
 ### Current Version
 
-My ([VinsWorldcom](https://github.com/VinsWorldcom/NppMarkdownPanel)) changes to [UrsineRaven's repo](https://github.com/UrsineRaven/NppMarkdownPanel) can be found [here](https://github.com/VinsWorldcom/NppMarkdownPanel/releases)
+I used Fody to package and updated it to use the NuGet version of markdig. Thanks for getting me to this point @VinsWorldcom.
+
+([VinsWorldcom](https://github.com/VinsWorldcom/NppMarkdownPanel)) is now using the same NuGet version of markdig in his ([version](https://github.com/vinsworldcom/NppMarkdownPanel/commit/f324ab351b4d25243ca4ff3eb85ccf9841aa561d)) as well.
+
+([VinsWorldcom](https://github.com/VinsWorldcom/NppMarkdownPanel)) changes to [UrsineRaven's repo](https://github.com/UrsineRaven/NppMarkdownPanel) can be found [here](https://github.com/VinsWorldcom/NppMarkdownPanel/releases)
 
 The plugin renders Markdown as HTML and provides a viewer.  The plugin can also 
 render HTML documents.  Additionally, 10 filters can be created manually in the 
